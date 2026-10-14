@@ -4,9 +4,9 @@ To hyggelige browser-spilprototyper med samme lille eventyr i to visuelle stilar
 
 ## Sådan spiller du
 
-Vælg en stil, find et æg, varm det i butikken, og find bær til dit nye dyr. Brug handlingsknappen, klik i verden eller gå med piletaster/WASD. På telefon kan du trykke i verden eller bruge styrekrydset.
+Vælg en stil, find et æg, varm det i butikken, og find bær til dit nye dyr. Brug den store handlingsknap, eller klik/tryk i verden for at gå.
 
-Du kan skifte stil undervejs, slå lyden fra og nulstille spillet. Fremskridt gemmes lokalt i browseren.
+Du kan skifte stil undervejs, slå lyden fra og nulstille spillet. Fremskridt bevares mellem stilarterne, mens siden er åben. En genindlæsning starter en ny prøve.
 
 ## Teknik
 
